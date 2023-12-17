@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1643482797 source:c:\users\potte\desktop\mini project\hotel management system\availability_status.c
+	<stdio.h>
+
+1643623730 source:c:\users\potte\desktop\mini project\hotel management system\booking.c
+
+1643623740 source:c:\users\potte\desktop\mini project\hotel management system\cancellation.c
+	<stdio.h>
+
+1643554077 source:c:\users\potte\desktop\mini project\hotel management system\check_roomnumber.c
+
+1643623763 source:c:\users\potte\desktop\mini project\hotel management system\choice.c
+
+1643623770 source:c:\users\potte\desktop\mini project\hotel management system\customer_details.c
+	<stdio.h>
+
+1643537776 source:c:\users\potte\desktop\mini project\hotel management system\date_check.c
+	<stdio.h>
+	<windows.h>
+
+1643578330 source:c:\users\potte\desktop\mini project\hotel management system\day_number.c
+
+1643623792 source:c:\users\potte\desktop\mini project\hotel management system\display_rooms.c
+	<stdio.h>
+
+1643623801 source:c:\users\potte\desktop\mini project\hotel management system\login.c
+
+1643624810 source:c:\users\potte\desktop\mini project\hotel management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<dos.h>
+
+1643566090 source:c:\users\potte\desktop\mini project\hotel management system\customer_records.c
+	<stdio.h>
+
+1643623750 source:c:\users\potte\desktop\mini project\hotel management system\check_in-out.c
+	<stdio.h>
+	<windows.h>
+
+1643482788 source:c:\users\potte\desktop\mini project\hotel management system\period_check.c
+
+1643624745 source:c:\users\potte\desktop\mini project\hotel management system\about_us.c
+
